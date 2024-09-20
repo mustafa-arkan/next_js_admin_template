@@ -1,0 +1,71 @@
+.country_statistics_container {
+  width: 95%;
+  margin: auto;
+  background: #fff;
+  border-radius: 7px;
+}
+.country_statistics_container h1 {
+  color: #2b3674;
+  font-size: 24px;
+  padding-left: 15px;
+  padding-top: 30px;
+}
+.country_sales_data_map {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  margin-top: 15px;
+  margin-left: 15px;
+  padding-bottom: 30px;
+}
+.main_table {
+}
+.main_table table thead tr th {
+  display: none !important;
+}
+
+.country_sales_data {
+  width: 50%;
+  height: 100%;
+  margin-top: 20px;
+}
+.country_sales_state {
+  width: 50%;
+  height: 100%;
+}
+
+.country_sales_chart {
+  width: 95%;
+  height: 95%;
+  margin: auto;
+}
+
+/*  */
+.main_table {
+  width: 100%;
+}
+
+.country_sales_data_map {
+  display: flex;
+}
+
+.country_sales_data {
+  flex: 1;
+}
+
+.country_sales_map {
+  flex: 1;
+  margin-left: 20px;
+}
+@media screen and (max-width: 767px) {
+  .country_sales_data_map {
+    flex-direction: column-reverse;
+  }
+  .country_sales_data {
+    width: 100%;
+  }
+  .country_sales_state {
+    width: 80%;
+  }
+}

@@ -1,0 +1,15 @@
+.footer_container {
+  height: 70px;
+  border-top: 4px solid #dfe3e8;
+  margin-top: 60px;
+  display: flex;
+  align-items: center;
+}
+.footer_container p {
+  font-size: 17px;
+  padding-left: 2.5%;
+  color: #7a7391;
+}
+.footer_container p span {
+  color: #4e91e0;
+}

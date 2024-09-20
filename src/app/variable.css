@@ -1,0 +1,13 @@
+:root {
+  --sidebar-background: #004f6e;
+  --sidebar-menu-color: #fff;
+  --navbar-background: #fff;
+  --navbar-color: #191d23;
+  --profile-bg: #004f6e;
+  --profile-color: #fff;
+  --authpage-bg: #f5f5f5;
+  --authform-bg: #fff;
+  --statistics-section-bg: #fff;
+  --statistics-section-color: #2b3674;
+  --statistics-logo-bg: #f4f7fe;
+}

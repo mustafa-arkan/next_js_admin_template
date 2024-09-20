@@ -1,0 +1,27 @@
+.overall_sales_container {
+  width: 95%;
+  margin: auto;
+  /* height: 450px; */
+  background: #fff;
+  margin-top: 30px;
+  padding: 20px;
+  border-radius: 5px;
+}
+.overall_sales_container h3 {
+  font-size: 24px;
+  color: #2b3674;
+  padding-bottom: 7px;
+}
+.overall_sales_container .todays_sales {
+  font-size: 16px;
+  padding-bottom: 7px;
+}
+.overall_sales_container .yesterday_sales {
+  font-size: 12px;
+  padding-bottom: 20px;
+}
+.current_income,
+.compare_income {
+  font-size: 14px;
+  padding-bottom: 5px;
+}

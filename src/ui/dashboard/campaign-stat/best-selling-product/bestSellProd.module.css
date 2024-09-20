@@ -1,0 +1,14 @@
+.best_sell_container {
+  width: 55%;
+  background: #ffff;
+  border-radius: 5px;
+  padding: 15px;
+}
+.best_sell_container h3 {
+  color: #2b3674;
+  font-size: 24px;
+  padding-bottom: 15px;
+}
+.table_best_sell table thead tr th {
+  padding-left: 15px;
+}

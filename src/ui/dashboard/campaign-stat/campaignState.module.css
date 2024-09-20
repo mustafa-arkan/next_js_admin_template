@@ -1,0 +1,8 @@
+.campaign_state_container {
+  width: 95%;
+  margin: auto;
+  margin-top: 30px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+}

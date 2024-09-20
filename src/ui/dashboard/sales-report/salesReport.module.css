@@ -1,0 +1,17 @@
+.sales_report_container {
+  width: 95%;
+  margin: auto;
+  margin-top: 120px;
+}
+.sales_report_wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+@media screen and (max-width: 767px) {
+  .sales_report_wrapper {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+  }
+}

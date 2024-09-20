@@ -1,0 +1,96 @@
+Package:
+#1==> npm install @mui/material @emotion/react @emotion/styled
+#2==> npm install @mui/icons-material
+#3==> npm install date-fns
+#4==> npm install formik --save
+#5==> npm install yup --save
+#6==> npm install mui-datatables --save
+/*   https://github.com/gregnb/mui-datatables     */
+
+#7==> npm install react-apexcharts apexcharts
+/*     https://apexcharts.com/react-chart-demos/     */
+
+#8==> npm install react-big-calendar
+/*  https://github.com/wojtekmaj/react-calendar    */
+/* https://projects.wojtekmaj.pl/react-calendar/    */
+
+
+#9==> npm install react-chartjs-2 chart.js
+/*    https://www.chartjs.org/     */
+/* https://github.com/reactchartjs/react-chartjs-2   */
+
+
+
+
+#1 To install :
+	npm install
+
+#2 To run :
+	npm run dev
+
+
+## Responsive Screens
+
+
+@media screen and (max-width: 1920px) {
+
+}
+
+@media screen and (max-width: 1700px) {
+
+}
+
+@media screen and (max-width: 1600px) {
+
+}
+
+@media screen and (max-width: 1440px) {
+
+}
+
+@media screen and (max-width: 1366px) {
+
+}
+
+@media screen and (max-width: 1280px) {
+
+}
+
+@media screen and (max-width: 1200px) {
+
+}
+
+@media screen and (max-width: 1080px) {
+
+}
+
+@media screen and (max-width: 1024px) {
+
+}
+@media screen and (max-width: 991px) {
+
+}
+@media screen and (max-width: 767px) {
+
+}
+@media screen and (max-width: 575px) {
+
+}
+
+@media screen and (max-width: 480px) {
+
+}
+
+@media screen and (max-width: 414px) {
+
+}
+
+@media screen and (max-width: 375px) {
+
+}
+
+@media screen and (max-width: 320px) {
+
+}
+
+

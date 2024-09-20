@@ -1,0 +1,35 @@
+.campaign_montly_container {
+  width: 42%;
+  background: #fff;
+  padding: 15px;
+  border-radius: 5px;
+  align-self: flex-start;
+}
+.campaign_montly_container h3 {
+  color: #2b3674;
+  font-size: 24px;
+  padding-bottom: 20px;
+}
+.montly_visitors_platform_list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.montly_visitors_platform_list .montly_visitors_platform,
+.montly_visitors_platform_list .montly_visitors_platform_value {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.montly_visitors_platform_list .montly_visitors_platform .platform_icon {
+  width: 40px;
+  height: 40px;
+  font-size: 40px;
+  color: #39cb7a;
+  background: #ddf6e8;
+  border-radius: 4px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

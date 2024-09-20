@@ -1,0 +1,14 @@
+.revenue_sales_container {
+  width: 95%;
+  height: 500px;
+  margin: auto;
+  display: flex;
+  gap: 35px;
+  margin-bottom: 30px;
+}
+.revenue_sales_container .sales_analysis_cards {
+  width: 35%;
+}
+.revenue_sales_container .revenue_stat_chart {
+  width: 65%;
+}

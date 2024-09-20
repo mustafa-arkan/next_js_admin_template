@@ -1,0 +1,63 @@
+.revenue_stat_chart_container {
+  width: 100%;
+  height: 100%;
+  border: 0.2px solid rgb(218, 216, 216);
+  border-radius: 5px;
+  background: #fff;
+}
+.revenue_stat_chart_container .revenue_stat_chart_header {
+  width: 100%;
+  height: 65px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 20px;
+}
+.revenue_stat_chart_header .revenue_stat_timing {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+.revenue_stat_timing button {
+  width: 35px;
+  height: 30px;
+  border: 1px solid gray;
+  outline: none;
+  background: transparent;
+  color: #7152d4;
+  font-size: 12px;
+  border-radius: 3px;
+}
+.revenue_stat_timing button:hover {
+  background: #7152d4;
+  color: #fff;
+}
+.revenue_stat_chart_container .revenue_stat_summery {
+  width: 100%;
+  height: 100px;
+  background: #f9fbfc;
+  border-top: 0.3px dashed gray;
+  border-bottom: 0.3px dashed gray;
+  display: flex;
+}
+.revenue_stat_summery .revenue_stat_summery_value {
+  width: 25%;
+  height: 100%;
+  border-right: 0.3px dashed gray;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.revenue_stat_summery .revenue_stat_summery_value:nth-last-child(1) {
+  border-right: 0px dashed gray;
+}
+.revenue_stat_summery .revenue_stat_summery_value h3 {
+  color: #4e5158;
+  font-size: 20px;
+  color: #a7aaae;
+}
+.revenue_stat_summery .revenue_stat_summery_value p {
+  font-size: 16px;
+  color: #a7aaae;
+}

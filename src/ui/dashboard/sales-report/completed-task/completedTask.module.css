@@ -1,0 +1,49 @@
+.website_task {
+  width: 32%;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  border-radius: 4px;
+  padding-bottom: 25px;
+  background: #fff;
+}
+
+.website_task h3,
+.website_task h4,
+.website_task p {
+  padding-left: 15px;
+}
+
+.website_sales h3,
+.website_task h3 {
+  font-size: 18px;
+  margin-top: 15px;
+  color: #373838;
+}
+
+.website_task h4 {
+  font-size: 14px;
+  padding-top: 7px;
+  color: #aeb4b4;
+}
+
+.website_task p {
+  font-size: 12px;
+  padding-top: 7px;
+  color: #aeb4b4;
+}
+
+.completed_task_chart {
+  width: 90%;
+  height: 300px;
+  margin: auto;
+  margin-top: -70px;
+  border-radius: 4px;
+}
+
+.completed_task_chart {
+  background: #13b9cc;
+}
+@media screen and (max-width: 767px) {
+  .website_task {
+    width: 100%;
+  }
+}

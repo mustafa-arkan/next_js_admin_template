@@ -1,0 +1,16 @@
+.client_table_container {
+  width: 95%;
+  background-color: #fff;
+  margin: auto;
+  margin-top: 30px;
+  border-radius: 5px;
+}
+.client_main_table table thead tr th {
+  padding-left: 15px;
+}
+.client_main_table table td div {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding-left: 30px;
+}

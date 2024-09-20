@@ -1,0 +1,42 @@
+{
+  "name": "next_js_base_admin_template",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@mui/icons-material": "^5.16.7",
+    "@mui/material": "^5.16.7",
+    "@react-leaflet/core": "^2.1.0",
+    "apexcharts": "^3.52.0",
+    "axios": "^1.7.4",
+    "chart.js": "^4.4.3",
+    "formik": "^2.4.6",
+    "jquery": "^3.7.1",
+    "jvectormap": "^2.0.4",
+    "leaflet": "^1.9.4",
+    "mui-datatables": "^4.3.0",
+    "next": "14.2.3",
+    "react": "^18",
+    "react-apexcharts": "^1.4.1",
+    "react-calendar": "^5.0.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^18",
+    "react-leaflet": "^4.2.1",
+    "react-router-dom": "^6.23.1",
+    "react-simple-maps": "^3.0.0",
+    "sharp": "^0.33.5",
+    "use-places-autocomplete": "^4.0.1",
+    "yup": "^1.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.3"
+  }
+}

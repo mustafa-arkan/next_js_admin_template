@@ -1,0 +1,112 @@
+{
+  "websiteViews": [
+    {
+      "month": "April",
+      "data": 5000,
+      "backgroundColor": "#FF6384"
+    },
+    {
+      "month": "May",
+      "data": 8000,
+      "backgroundColor": "#36A2EB"
+    },
+    {
+      "month": "June",
+      "data": 10000,
+      "backgroundColor": "#FFCE56"
+    },
+    {
+      "month": "July",
+      "data": 12000,
+      "backgroundColor": "#4BC0C0"
+    }
+  ],
+  "dailySales": [
+    {
+      "day": "Mon",
+      "sales": 1500,
+      "backgroundColor": "#FF6384",
+      "borderColor": "#FF6384"
+    },
+    {
+      "day": "Tue",
+      "sales": 2000,
+      "backgroundColor": "#FF6384",
+      "borderColor": "#FF6384"
+    },
+    {
+      "day": "Wed",
+      "sales": 1800,
+      "backgroundColor": "#FF6384",
+      "borderColor": "#FF6384"
+    },
+    {
+      "day": "Thu",
+      "sales": 2200,
+      "backgroundColor": "#FF6384",
+      "borderColor": "#FF6384"
+    },
+    {
+      "day": "Fri",
+      "sales": 2000,
+      "backgroundColor": "#FF6384",
+      "borderColor": "#FF6384"
+    },
+    {
+      "day": "Sat",
+      "sales": 2500,
+      "backgroundColor": "#FF6384",
+      "borderColor": "#FF6384"
+    },
+    {
+      "day": "Sun",
+      "sales": 2300,
+      "backgroundColor": "#FF6384",
+      "borderColor": "#FF6384"
+    }
+  ],
+  "completedTasks": [
+    {
+      "day": "Mon",
+      "tasks": 20,
+      "backgroundColor": "#36A2EB",
+      "borderColor": "red"
+    },
+    {
+      "day": "Tue",
+      "tasks": 25,
+      "backgroundColor": "#36A2EB",
+      "borderColor": "red"
+    },
+    {
+      "day": "Wed",
+      "tasks": 23,
+      "backgroundColor": "#36A2EB",
+      "borderColor": "red"
+    },
+    {
+      "day": "Thu",
+      "tasks": 30,
+      "backgroundColor": "#36A2EB",
+      "borderColor": "red"
+    },
+    {
+      "day": "Fri",
+      "tasks": 28,
+      "backgroundColor": "#36A2EB",
+      "borderColor": "red"
+    },
+    {
+      "day": "Sat",
+      "tasks": 35,
+      "backgroundColor": "#36A2EB",
+      "borderColor": "red"
+    },
+    {
+      "day": "Sun",
+      "tasks": 32,
+      "backgroundColor": "#36A2EB",
+      "borderColor": "red"
+    }
+  ]
+}

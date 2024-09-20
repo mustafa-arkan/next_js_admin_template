@@ -1,0 +1,64 @@
+.top_products_container {
+  width: 95%;
+  margin: auto;
+  background: #fff;
+  border-radius: 5px;
+  margin-top: 30px;
+  padding: 15px;
+}
+.top_products_header {
+  display: flex;
+  justify-content: space-between;
+}
+.top_products_header h3 {
+  color: #2b3674;
+  font-size: 24px;
+  padding-top: 10px;
+  padding-bottom: 30px;
+}
+.top_products_table {
+  width: 100%;
+}
+.top_products_container {
+  padding: 20px;
+}
+
+.top_products_table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.top_products_table th {
+  font-size: 14px;
+  font-weight: 300;
+  padding-bottom: 15px;
+}
+.top_products_table td {
+  color: #4458a6;
+  font-size: 13px;
+  padding-top: 15px !important;
+}
+
+.top_products_table th,
+.top_products_table td {
+  padding: 0px 20px 15px 0px;
+  text-align: left;
+  border-bottom: 0.3px solid gainsboro;
+}
+
+.top_products_table th {
+  font-weight: 300;
+}
+.top_products_table th:last-child,
+.top_products_table td:last-child {
+  text-align: center;
+}
+.top_sales_value {
+  border: 0.4px solid #1976d2;
+  width: 43px;
+  height: 30px;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 4px;
+}

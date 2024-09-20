@@ -1,0 +1,63 @@
+.register_form {
+  display: grid;
+  gap: 16px;
+  font-family: var(--font-poppins);
+}
+
+.input_field {
+  display: grid;
+  gap: 6px;
+}
+
+.input_field label {
+  color: #004f6e;
+  font-size: 16px;
+  font-weight: 400;
+}
+.input_box {
+  border: 0.6px solid #282828;
+  height: 42px;
+  border-radius: 6px;
+  padding-left: 15px;
+  width: 100%;
+}
+.signup_btn {
+  width: 100%;
+  height: 50px;
+  border: none;
+  outline: none;
+  border-radius: 6px;
+  font-weight: 500;
+  font-size: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 15px;
+}
+/* eye code */
+.pass_box,
+.confirm_pass_box {
+  position: relative;
+}
+.pass_eye_container,
+.confirm_eye_container {
+  position: absolute;
+  right: 15px;
+  top: 10px;
+}
+
+@media screen and (max-width: 1024px) {
+  .form_title_1 {
+    font-size: 1.1rem;
+  }
+  .form_title_2 {
+    font-size: 0.7rem;
+    margin-bottom: 15px;
+  }
+  .input_field label {
+    font-size: 14px;
+  }
+  .register_form {
+    gap: 10px;
+  }
+}

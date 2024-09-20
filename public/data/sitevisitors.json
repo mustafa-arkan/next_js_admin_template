@@ -1,0 +1,24 @@
+{
+  "websiteViews": [
+    {
+      "month": "April",
+      "data": 5000,
+      "backgroundColor": "#FF6384"
+    },
+    {
+      "month": "May",
+      "data": 8000,
+      "backgroundColor": "#36A2EB"
+    },
+    {
+      "month": "June",
+      "data": 10000,
+      "backgroundColor": "#FFCE56"
+    },
+    {
+      "month": "July",
+      "data": 12000,
+      "backgroundColor": "#4BC0C0"
+    }
+  ]
+}
