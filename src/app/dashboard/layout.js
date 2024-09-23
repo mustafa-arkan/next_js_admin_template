@@ -11,13 +11,15 @@ import CountryState from "@/ui/dashboard/country-statistics/countryState";
 import RevenueSalesStat from "@/ui/dashboard/revenue-sales-stat/revenueSalesStat";
 import SalesReport from "@/ui/dashboard/sales-report/salesReport";
 import TaskSocial from "@/ui/dashboard/task_social/taskSocial";
-
 import CampaignStat from "@/ui/dashboard/campaign-stat/campaignStat";
 import TopProduct from "@/ui/dashboard/top-product/topProduct";
 import SalesMarketing from "@/ui/dashboard/salesMarketing/salesMarketings";
 import MarketingDashboard from "@/ui/dashboard/marketing-dashboard/marketingDashboard";
 import ClientStatistics from "@/ui/dashboard/client-stat/clientStatistics";
 import OverallSales from "@/ui/dashboard/ovarll-sales/overallSales";
+import TaskPerformanceTraffic from "@/ui/dashboard/task-performace-traffic/performanceTraffic";
+import ExpenseCalender from "../../ui/dashboard/expense-calender/expenseCalender";
+import InternationalSalesMap from "@/ui/dashboard/international-sales/internationalsales";
 
 export default function DashboardLayout({ children }) {
   const [isSidebarCollapsed, setIsSidebarCollapsed] = useState(false);
@@ -81,13 +83,16 @@ export default function DashboardLayout({ children }) {
           <CountryState />
           <SalesReport />
           <TaskSocial />
-
           <CampaignStat />
           <TopProduct />
           <SalesMarketing />
           <MarketingDashboard />
           <ClientStatistics />
           <OverallSales />
+          <TaskPerformanceTraffic />
+          <ExpenseCalender />
+          <InternationalSalesMap />
+
           {children}
           <Footer />
         </div>

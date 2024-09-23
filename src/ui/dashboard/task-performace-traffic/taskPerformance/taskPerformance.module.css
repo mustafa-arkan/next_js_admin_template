@@ -1,0 +1,14 @@
+.task_performance_circle_chart {
+  width: 100%;
+  height: 100%;
+  background: #fff;
+}
+/* .task_performance_circle_chart {
+  position: relative;
+}
+
+.task_performance_circle_chart .apexcharts-legend {
+  position: absolute;
+  left: 0 !important;
+  top: 0;
+} */

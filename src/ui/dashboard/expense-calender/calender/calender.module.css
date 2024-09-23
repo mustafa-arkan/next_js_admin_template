@@ -1,0 +1,20 @@
+.calender_container {
+  width: 42%;
+  background: #fff;
+  border-radius: 5px;
+}
+
+.calender_section {
+  width: 100%;
+  margin: auto;
+  padding: 20px;
+}
+.calender_section div {
+  width: 100% !important;
+  border: none !important;
+}
+@media screen and (max-width: 700px) {
+  .expense_calender_container .calender_container {
+    width: 100%;
+  }
+}
